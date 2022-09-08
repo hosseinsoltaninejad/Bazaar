@@ -14,7 +14,7 @@ Bazaar sample app developed MVVM architecture design pattern that follow the bes
 ✅ ...
 
 # Demo:
-<img align="center" src="" alt="hossein-soltani-nejad" height="510" width="510" />
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/Bazaar.gif?raw=true" alt="hossein-soltani-nejad" height="510" width="510" />
 
 <br/>
 
@@ -22,7 +22,17 @@ Bazaar sample app developed MVVM architecture design pattern that follow the bes
 
 <span>
 
-<img align="center" src="" alt="hossein-soltani-nejad"  height="650" width="310"/>
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/screenshot_1.jpg?raw=true" alt="hossein-soltani-nejad"  height="650" width="310"/>
+
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/screenshot_2.jpg?raw=true" alt="hossein-soltani-nejad"  height="650" width="310"/>
+
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/screenshot_3.jpg?raw=true" alt="hossein-soltani-nejad"  height="650" width="310"/>
+
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/screenshot_4.jpg?raw=true" alt="hossein-soltani-nejad"  height="650" width="310"/>
+
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/screenshot_5.jpg?raw=true" alt="hossein-soltani-nejad"  height="650" width="310"/>
+
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/screenshot_6.jpg?raw=true" alt="hossein-soltani-nejad"  height="650" width="310"/>
 
 
 </span>
