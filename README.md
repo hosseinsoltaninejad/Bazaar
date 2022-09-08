@@ -1,5 +1,5 @@
 # Android-MVVM-RxJava-Bazaar
-Digikalala sample app developed MVVM architecture design pattern that follow the best practices of Object Oriented Design Patterns with following technology stack.
+Bazaar sample app developed MVVM architecture design pattern that follow the best practices of Object Oriented Design Patterns with following technology stack.
 
 ✅ Architecture Design Pattern <br/>
 ✅ MVVM <br/>
