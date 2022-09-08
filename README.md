@@ -5,11 +5,11 @@ Digikalala sample app developed MVVM architecture design pattern that follow the
 ✅ MVVM <br/>
 ✅ Koin (Dependency Injection) <br/>
 ✅ Live Data <br/>
-✅ RxJava <br/>
+✅ Coroutines <br/>
 ✅ Retrofit <br/>
+✅ Room <br/>
 ✅ Repository Pattern <br/>
 ✅ AndroidX <br/>
-✅ JetPack Libraries <br/>
 ✅ JetPack Compose <br/>
 ✅ ...
 
