@@ -14,7 +14,7 @@ Bazaar sample app developed MVVM architecture design pattern that follow the bes
 ✅ ...
 
 # Demo:
-<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/Bazaar.gif?raw=true" alt="hossein-soltani-nejad" height="510" width="510" />
+<img align="center" src="https://github.com/hosseinsoltaninejad/Bazaar/blob/main/screenshots/Bazaar.gif?raw=true" alt="hossein-soltani-nejad" height="750px" width="344px" />
 
 <br/>
 
